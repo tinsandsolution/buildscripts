@@ -13,3 +13,5 @@
 # Step 3: git clone https://github.com/tinsandsolution/buildscripts.git
 
 # Step 4: bash buildscripts/remote_desktop_ubuntu.sh 
+
+apt update & apt upgrade -y
